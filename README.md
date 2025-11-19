@@ -10,7 +10,7 @@ This app showcases products, allows users to browse, search, and manage a shoppi
 - 🔍 **Search & Filters:** Filter products by category, price, or name  
 - 🛒 **Shopping Cart:** Add, remove, and update product quantities  
   
--  **Checkout:** Review cart items before purchase  
+
 - 📱 **Responsive UI:** Works on desktop, tablet, and mobile  
 - 🎨 **Modern Design:** Clean and visually appealing
 
@@ -18,12 +18,11 @@ This app showcases products, allows users to browse, search, and manage a shoppi
 
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js 14 + React  
-- **Styling:** CSS / TailwindCSS / Bootstrap (optional)  
+- **Styling:** CSS / Bootstrap (optional)  
 - **Routing:** Next.js App Router / Pages Router  
 - **State Management:** React useState / Context API / Redux (optional)  
 - **API Requests:** Axios / Fetch API  
 
 ---
 
-## 📁 Project Structure
 
